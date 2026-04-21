@@ -11,9 +11,9 @@ class Bot(Client):
     def __init__(self):
         super().__init__(
             name="avbotz",
-            api_id=API_ID", "32435316"))
-            api_hash=API_HASH "," 8e43ea7c238742fc4f071c5a0195eba5")
-            bot_token=BOT_TOKEN","8736955650:AAHsUR1wXkVpHY47jKa7JGzXDZmoDJIAXk0")
+            api_id=API_ID,32435316
+            api_hash=API_HASH , 8e43ea7c238742fc4f071c5a0195eba5
+            bot_token=BOT_TOKEN ,8736955650:AAHsUR1wXkVpHY47jKa7JGzXDZmoDJIAXk0
             workers=30000,bot_token=BOT_TOKEN\",\"\")
             plugins={"root": "plugins"},
             sleep_threshold=15,
